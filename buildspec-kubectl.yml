@@ -4,7 +4,6 @@ env:
   variables:
     _PROJECT_NAME: "user13-products"
      
-
 phases:
   install:
     runtime-versions:
